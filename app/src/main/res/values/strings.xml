@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="createSlide">New</string>
+    <string name="saved">Your Creations</string>
+
+    <array name="images">
+        <item>@drawable/district</item>
+        <item>@drawable/machinist</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/tangled</item>
+        <item>@drawable/tom</item>
+        <item>@drawable/transformer</item>
+        <item>@drawable/xmen</item>
+    </array>
+</resources>
